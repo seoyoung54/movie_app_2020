@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/removie_app_2020/static/css/main.e0035fee.css",
+    "main.js": "/removie_app_2020/static/js/main.8b414ce2.js",
+    "index.html": "/removie_app_2020/index.html",
+    "main.e0035fee.css.map": "/removie_app_2020/static/css/main.e0035fee.css.map",
+    "main.8b414ce2.js.map": "/removie_app_2020/static/js/main.8b414ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0035fee.css",
+    "static/js/main.8b414ce2.js"
+  ]
+}
